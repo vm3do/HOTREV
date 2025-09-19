@@ -1,4 +1,4 @@
 package repositories;
 
-public class ReservationRepository {
+public interface ReservationRepository {
 }
